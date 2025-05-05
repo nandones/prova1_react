@@ -1,0 +1,9 @@
+AddProductScreen = AddBookScreen
+product = book
+
+VARIAVEIS DO LIVRO
+name = title
+price = anopub
+categoria = genero
+= autor
+oferta = disponivel
